@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            O Data Mine
+title:            Attempting to code...
 tagline:          'I wish to be deliberate.'
 description:      'We are what we survive.'
 url:              https://odatamine.github.io
@@ -15,7 +15,7 @@ baseurl:          ''
                   # sidebar_blog_link below.
 
 author:
-  name:           'ODM'
+  name:           'MJX'
   url:            
 
 paginate:         5
