@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Attempting to code...
 tagline:          'I wish to be deliberate.'
 description:      'We are what we survive.'
-url:              https://odatamine.github.io
+url:              https://MJX-codes.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
